@@ -8,6 +8,7 @@ I've currently only have 128bit encryption enabled and tested. I have not tested
 This is a quick and dirty instruction. When i have time i'll write a more percise instruction.
 1. I've used Keil IDE to compile a project and after a build ran a batch file "runcmd.bat". So in options under "User" you'll have to add the path to the batch file. Modify the rumcmd.bat for your project paths. 
 2. You can add a revision file to your project "revision.h" so the encrypted file will add a revision number to the file name you provide. if you don't add a revisin file then the file name will be as what name you input.
+3. I've included a default 128bit (GUID) key in the program but you can change it to your own GUID. Or in the batch file you can add a GUID and it'll replace the default embedded GUID on the fly.
 
 
 In the future i'll put the source code for:
