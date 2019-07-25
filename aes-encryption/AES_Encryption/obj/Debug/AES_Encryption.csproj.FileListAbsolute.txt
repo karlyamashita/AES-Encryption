@@ -1,0 +1,21 @@
+C:\Users\Karl_Audionics\source\repos\AES_Encryption\AES_Encryption\bin\Debug\AES_Encryption.exe.config
+C:\Users\Karl_Audionics\source\repos\AES_Encryption\AES_Encryption\bin\Debug\AES_Encryption.exe
+C:\Users\Karl_Audionics\source\repos\AES_Encryption\AES_Encryption\bin\Debug\AES_Encryption.pdb
+C:\Users\Karl_Audionics\source\repos\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.csprojAssemblyReference.cache
+C:\Users\Karl_Audionics\source\repos\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Karl_Audionics\source\repos\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.exe
+C:\Users\Karl_Audionics\source\repos\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.pdb
+C:\Users\Karl_Audionics\Documents\Visual Studio 2017\Projects\AES_Encryption\AES_Encryption\bin\Debug\AES_Encryption.exe.config
+C:\Users\Karl_Audionics\Documents\Visual Studio 2017\Projects\AES_Encryption\AES_Encryption\bin\Debug\AES_Encryption.exe
+C:\Users\Karl_Audionics\Documents\Visual Studio 2017\Projects\AES_Encryption\AES_Encryption\bin\Debug\AES_Encryption.pdb
+C:\Users\Karl_Audionics\Documents\Visual Studio 2017\Projects\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.csprojAssemblyReference.cache
+C:\Users\Karl_Audionics\Documents\Visual Studio 2017\Projects\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Karl_Audionics\Documents\Visual Studio 2017\Projects\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.exe
+C:\Users\Karl_Audionics\Documents\Visual Studio 2017\Projects\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.pdb
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\AES_Encryption\AES_Encryption\bin\Debug\AES_Encryption.exe.config
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\AES_Encryption\AES_Encryption\bin\Debug\AES_Encryption.exe
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\AES_Encryption\AES_Encryption\bin\Debug\AES_Encryption.pdb
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.exe
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.pdb
