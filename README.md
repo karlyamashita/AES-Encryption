@@ -13,4 +13,4 @@ This is a quick and dirty instruction. When i have time i'll write a more percis
 
 In the future i'll put the source code for:
 1. The PC firmware updater which is a program to transfer encrypted hex file over USB to target microcontroller which in this case was for a STM32F105.
-2. The universal bootloader for the STM32F105 which decrypts the encrypted hex file and loads it in program space which will embed the product name in the bootloader section. I'll include a simple project which shows how to add a product name and revision which gets embedded in the hex file. So the bootloader and PC updater will verify the encrypted hex file is correct for that product. 
+2. The universal bootloader https://github.com/karlyamashita/bootloaderV2 for the STM32F105 which decrypts the encrypted hex file and loads it in program space which will embed the product name in the bootloader section. I'll include a simple project which shows how to add a product name and revision which gets embedded in the hex file. So the bootloader and PC updater will verify the encrypted hex file is correct for that product. 
